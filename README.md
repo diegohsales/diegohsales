@@ -1,8 +1,8 @@
 <a href="https://https://www.facebook.com/diegohenriquesales/">
-    <img https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 
 <a href="https://github.com/dieghsales">
-    <https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=55511972761484">
@@ -10,7 +10,7 @@
 </a>
 
 <a href="mailto:diegohenrique_sales@hotmail.com">
-    <https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white>
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 
 <a href="https://www.linkedin.com/in/diegohsales/">
