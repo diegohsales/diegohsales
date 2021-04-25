@@ -1,4 +1,9 @@
-Prazer, Sou o Diego! Um cara que ama tecnologia e Games 👨‍💻🎮🕹
+## Olá, Mundo!🌎 Seja bem-vindo(a)
+
+<img align="right" src="https://github.com/diegohsales/felipesantos10/blob/master/image.png" width="425"/>
+
+
+#### Prazer, Sou o Diego! Um cara que ama tecnologia e Games 👨‍💻🎮🕹
 
 • 🎒 Estudante de Analise de Sistema na Faculdade Impacta, atualmente no 3 Semestre.
 • 💜 Não tenho ainda experiencia em programação.
@@ -22,8 +27,12 @@ Prazer, Sou o Diego! Um cara que ama tecnologia e Games 👨‍💻🎮🕹
 <a href="https://www.linkedin.com/in/diegohsales/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
+  <a>
+    <img src="https://img.shields.io/badge/DiegoHSales%232449-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
 
-🚀 Skills
+🚀 **Skills**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
