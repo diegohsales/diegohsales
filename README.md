@@ -18,7 +18,7 @@
 </a>
 
 🚀 Skills
-<img height="20" src="ttps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<img src="ttps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white 
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
