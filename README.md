@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
 </a>
 
+
 🎶 Sound 🔝
 
 <a href="https://www.spotify.com/br/account/overview/#_=_">
