@@ -1,9 +1,15 @@
+Prazer, Sou o Diego! Um cara que ama tecnologia e Games 👨‍💻🎮🕹
+
+• 🎒 Estudante de Analise de Sistema na Faculdade Impacta, atualmente no 3 Semestre.
+• 💜 Não tenho ainda experiencia em programação.
+• 👨‍💻 Tenho um pequeno conhecimento em: Html, Css, JavaScript, React, Fluuter(Dart), Kotlin, Python, C/C++,
+
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Android, IA, Machine Learning, Deep Learnig IoT, Full Stack.
+
+**Contato**
+
 <a href="https://www.facebook.com/diegohenriquesales/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-
-<a href="https://github.com/dieghsales">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 <a href="https://api.whatsapp.com/send?phone=55511972761484">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
