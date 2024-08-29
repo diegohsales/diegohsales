@@ -1,8 +1,5 @@
 ## Olá, Mundo!🌎 Seja bem-vindo(a)
 
-<img align="right" src="https://github.com/diegohsales/felipesantos10/blob/master/image.png" width="425"/>
-
-
 #### Prazer, Sou o Diego! Um cara que ama tecnologia e Games 👨‍💻🎮🕹
 
 ### Sobre mim
@@ -24,18 +21,14 @@
 
 <a href="https://api.whatsapp.com/send?phone=55511972761484">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
-</a>
 
 <a href="mailto:diegohenrique_sales@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
 
 <a href="https://www.linkedin.com/in/diegohsales/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
-</a>
-  <a>
-    <img src="https://img.shields.io/badge/DiegoHSales%232449-6633cc?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
+
+  <a><img src="https://img.shields.io/badge/DiegoHSales%232449-6633cc?style=flat-square&logo=Discord&logoColor=white" /></a>
 
 🚀 **Skills**
 
