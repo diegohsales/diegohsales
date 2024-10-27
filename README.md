@@ -3,13 +3,13 @@
 #### Prazer, Sou o Diego! Um cara que ama tecnologia e Games 👨‍💻🎮🕹
 
 ### Sobre mim
-• 🎒 Formado em Analise de Sistema na Faculdade Impacta, e estudante de Data Sciense.
+• 🎒 Formado em Analise de Sistema na Faculdade Impacta.
 
 • 💜 Não tenho ainda experiencia em programação.
 
-• 👨‍💻 Tenho um pequeno conhecimento em: Html, Css, JavaScript,Python.
+• 👨‍💻 Tenho conhecimento em: Html, Css, JavaScript,Python.
 
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Data Science, IA, Machine Learning, Deep Learnig IoT, Full Stack.
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Front-End, Data Science, IA, Machine Learning, Deep Learnig IoT.
 
 📱 **Contato**
 
