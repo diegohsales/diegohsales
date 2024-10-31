@@ -3,7 +3,7 @@
 #### Prazer, Sou o Diego! Um cara que ama tecnologia e Games 👨‍💻🎮🕹
 
 ### Sobre mim
-• 🎒 Formado em Analise de Sistema na Faculdade Impacta.
+• 🎒 Formado em Analise e Desenvolvimento de Sistema.
 
 • 💜 Não tenho ainda experiencia em programação.
 
