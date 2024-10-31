@@ -1,6 +1,6 @@
 ## Olá, Mundo!🌎 Seja bem-vindo(a)
 
-#### Prazer, Sou o Diego! Um cara que ama tecnologia e Games 👨‍💻🎮🕹
+#### Prazer, Sou o Diego! Um cara que ama Café, tecnologia e Games 👨‍💻🎮🕹
 
 ### Sobre mim
 • 🎒 Formado em Analise e Desenvolvimento de Sistema.
