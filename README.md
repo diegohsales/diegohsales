@@ -1,8 +1,8 @@
 # 💫 Sobre mim:
 <br>💜 Apaixonado por café, tecnologia e por desenvolver soluções <br>
-🎓 Cientista da Computação <br>
-💻 Desenvolvedora Front-end
-🎮 Gamer nas horas vagas
+<br>🎓 Cientista da Computação <br>
+<br>💻 Desenvolvedora Front-end<br>
+<br>🎮 Gamer nas horas vagas<br>
 
 
 ## 🌐 Redes Sociais:
