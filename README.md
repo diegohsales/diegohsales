@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 <br>💜 Apaixonado por café, tecnologia e por desenvolver soluções <br>
-<br>💻 Desenvolvedor Front-end<br>
+<br>💻 Engenheiro de Software em formação | Arquiteto de Software • DevOps • QA • Desenvolvimento de Sistemas<br>
 <br>🎓 Estudante de MBA Engenharia de Software <br>
 <br>🎮 Gamer nas horas vagas<br>
 
