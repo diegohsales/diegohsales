@@ -14,6 +14,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,mysql,sqlite,pycharm,py,vscode,ubuntu,kali,windows,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diegohsales&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=diegohsales&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohsales&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohsales&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
