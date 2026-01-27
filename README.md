@@ -1,9 +1,9 @@
 # 💫 Sobre mim:
-<br>💜 Apaixonado por café, tecnologia e por desenvolver soluções <br>
-<br>💻 Engenheiro de Software em formação | Arquiteto de Software • DevOps • QA • Desenvolvimento de Sistemas<br>
-<br>🎓 Estudante de MBA Engenharia de Software <br>
+<br>💜 Movido por café, tecnologia e pela paixão em transformar dados em soluções claras e estratégicas por meio de dashboards<br>
+<br>💻 Engenheiro de Dados em formação | Python Developer • Arquiteto de Dados • Analista de Banco de Dados<br>
+<br>📦 Da Logística à Tecnologia: transformando desafios complexos em soluções inteligentes orientadas a dados<br>
+<br>🎓 MBA em Engenharia de Dados<br>
 <br>🎮 Gamer nas horas vagas<br>
-
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/diegoh.sales/) 
@@ -11,14 +11,7 @@
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,mysql,sqlite,pycharm,py,vscode,ubuntu,kali,windows,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diegohsales&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
